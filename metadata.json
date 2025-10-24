@@ -1,0 +1,5 @@
+{
+  "name": "Google Keyword Rank Checker Projects",
+  "description": "An application to create projects for tracking Google keyword rankings for different domains. Enter multiple keywords and check their rankings with specific device and country settings.",
+  "requestFramePermissions": []
+}
